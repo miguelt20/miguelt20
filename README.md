@@ -2,7 +2,7 @@
 
 <div align="center">
  
-I am a software developer, I'm passionate about learning new things and creating projects to improve my skills.
+I am a software developer who is passionate about learning new things and creating projects to improve my skills.
 </div>
  
 <h3 align="center">Reach me at 	:mailbox: </h3>

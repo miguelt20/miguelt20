@@ -2,7 +2,7 @@
 
 <div align="center">
  
-I am a software developer graduated from Holberton School, where I got an immersive training in computer science, starting to learn the C programming language to develop skills related with logic programming, clean code, etc.
+I am a software developer graduated from Holberton School, where I got an immersive training in computer science, starting to learn the C programming language to develop skills related with logic programming, clean code and it facilitates the understanding of the other programming languages.
 </div>
  
 <h3 align="center">Reach me at 	:mailbox: </h3>

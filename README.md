@@ -2,7 +2,12 @@
 
 <div align="center">
  
-I am a software developer graduated from Holberton School, where I got an immersive training in computer science, starting to learn the C programming language to develop skills related with logic programming, clean code and it facilitates the understanding of the other programming languages.
+I am a software developer graduated from Holberton School, with a solid understanding of web development principles, and I am capable of building and 
+deploying basic web applications. I am comfortable working with front-end technologies such as HTML, CSS, and 
+JavaScript, and I have experience using popular front-end frameworks such as React and styling libraries such as 
+TailwindCSS. Additionally, I have knowledge and practical experience in Python programming language. I am capable 
+of developing basic to intermediate level Python applications, and I have a solid understanding of object-oriented 
+programming principles, data structures, algorithms, and problem-solving techniques.
 </div>
  
 <h3 align="center">Reach me at 	:mailbox: </h3>

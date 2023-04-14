@@ -2,12 +2,7 @@
 
 <div align="center">
  
-I am a software developer graduated from Holberton School, with a solid understanding of web development principles, and I am capable of building and 
-deploying basic web applications. I am comfortable working with front-end technologies such as HTML, CSS, and 
-JavaScript, and I have experience using popular front-end frameworks such as React and styling libraries such as 
-TailwindCSS. Additionally, I have knowledge and practical experience in Python programming language. I am capable 
-of developing basic to intermediate level Python applications, and I have a solid understanding of object-oriented 
-programming principles, data structures, algorithms, and problem-solving techniques.
+I am a software developer with a solid understanding of web development principles, I am capable of building and deploying complete web applications. I have knowledge and hands-on experience working with frontend technologies such as HTML, CSS, JavaScript, using popular frameworks like React.js, Next.js and styling libraries like Tailwind CSS, and backend technologies like Python, Node.js and SQL. I have extensive knowledge in object-oriented programming principles, data structures, algorithms and problem-solving techniques. I consider myself a proactive, efficient and willing to face new challenges.
 </div>
  
 <h3 align="center">Reach me at 	:mailbox: </h3>

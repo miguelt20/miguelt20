@@ -2,7 +2,7 @@
 
 <div align="center">
  
-I am a software developer with a solid understanding of web development principles, I am capable of building and deploying complete web applications. I have knowledge and hands-on experience working with frontend technologies such as HTML, CSS, JavaScript, using popular frameworks like React.js, Next.js and styling libraries like Tailwind CSS, and backend technologies like Python, Node.js and SQL. I have extensive knowledge in object-oriented programming principles, data structures, algorithms and problem-solving techniques. I consider myself a proactive, efficient and willing to face new challenges.
+As an efficient and adaptable Fullstack Developer, I have experience in the development of some projects using technologies such as Python, Java, SQL, Node.js, HTML, CSS, and JavaScript. Additionally, I have expertise in React.js/Next.js, Tailwind CSS, and Git version control. My strong foundation in object-oriented programming principles, data structures, and algorithms enable me to provide agile and effective solutions. I thrive in team environments and enjoy challenging myself to collaboratively achieve the best results.
 </div>
  
 <h3 align="center">Reach me at 	:mailbox: </h3>

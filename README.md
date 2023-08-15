@@ -27,7 +27,6 @@ As an efficient and adaptable Fullstack Developer, I have experience in the deve
  <br>
   <img src="https://img.shields.io/badge/tailwindcss%20-%231591A6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/react%20-%2353B214.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript%20-%231591F6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
  <br>
   <img src="https://img.shields.io/badge/git%20-%23A53214.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>

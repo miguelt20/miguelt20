@@ -2,7 +2,7 @@
 
 <div align="center">
  
-As an efficient and adaptable Fullstack Developer, I have experience in the development of some projects using technologies such as Python, Java, SQL, Node.js, HTML, CSS, and JavaScript. Additionally, I have expertise in React.js/Next.js, Tailwind CSS, and Git version control. My strong foundation in object-oriented programming principles, data structures, and algorithms enable me to provide agile and effective solutions. I thrive in team environments and enjoy challenging myself to collaboratively achieve the best results.
+Software Developer with advanced skills in HTML, CSS, JavaScript, as well as solid experience in React.js along with technologies such as TypeScript, Redux, React-testing-library and third-party packages. I have contributed to the success of projects by increasing the functionality and performance of the applications, implementing new features, code migrations from JavaScript to TypeScript, unit testing, among other functions, thus improving maintainability and reducing bugs. I thrive in team environments and enjoy challenging myself to collaboratively achieve the best results.
 </div>
  
 <h3 align="center">Reach me at: </h3>
